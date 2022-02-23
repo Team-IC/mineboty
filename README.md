@@ -73,4 +73,4 @@ mineboty(); 
 
 # pls help us by staring or forking this repo 
 
-# hope you will like our mineboty and feel free to ask any help for help join = https://discord.gg/teamic
+# hope you will like our mineboty and feel free to ask any help for help join = https://discord.gg/ic
