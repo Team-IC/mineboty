@@ -1,10 +1,10 @@
 {
-    "ip": "",
-    "port": "",
+    "ip": "Subtotalop.aternod.me",
+    "port": "37259",
     "name": "katy",
     "auto-night-skip": "false",
     "prefix": "",
-    "login-enabled": "true",
+    "login-enabled": "false",
     "register-cmd": "/login kartikopp kartikopp",
     "login-cmd": "/login kartikopp",
     "loginmsg": "",
