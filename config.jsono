@@ -1,9 +1,9 @@
 {
- "ip": "play.teamic.me",
- "port": "",
+ "ip": "Subtotalop.aternos.me",
+ "port": "37259",
  "name": "eeeeeeeee",
  "auto-night-skip": "false",
  "loginmsg": "/login eeeeeeeeeee",
  "prefix": "!",
- "version": "1.8.9"
+ "version": "1.17.41.1"
 }
