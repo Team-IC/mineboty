@@ -21,44 +21,16 @@ it will help you to make best in pvp will also guard the place
 - Team IC Website - [Website](https://teamic.ml)
 
 
-# update status v2.0.2
+# update status v3.4.22
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 ## What's New
-1. Discord to Minecraft server chat **Removed**.
-2. custom command **temp removed**.
-3. Web Inventory **Module addition**.
-4. Some Bug solved.
-5. Added Advanced login system.
-6. Added Prefix in comands.
-7. Added Auto reconnect (it only work 2 time).
-8. Added anti Afk.
-9. Added auto eat (to make it anti afk and good in pvp).
-10. Added 1.18 support.
+Added 1.18 to 1.18.2 support.
+Added Website with enable disable function
+Removed some Bug's
+Updated some config.json
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-# If you are using replit then replace index.js to get the link
-```yaml
-const express = require("express");
-
-const app = express()
-
-app.get('/', (req, res) => {
-
-  res.send("Use this link for uptime")
-
-})
-
-app.listen(3000, () => {
-
-  console.log("bot started")
-
-})
-
-const { mineboty } = require("mineboty")
-
-mineboty(); 
-```
 
 # why mineboty
 - mineboty is better than afk bots
@@ -69,8 +41,8 @@ mineboty(); 
 - prefix
 - PVP Practive
 - and more!!!!
-## Happy New Year
+
 
 # pls help us by staring or forking this repo 
 
-# hope you will like our mineboty and feel free to ask any help for help join = https://discord.gg/ic
+# hope you will like our mineboty and feel free to ask any help for help join = https://discord.gg/9a5hV3XJFT
