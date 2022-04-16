@@ -1,12 +1,15 @@
 {
-    "ip": "",
-    "port": "",
-    "name": "katy",
+    "ip": "katyty.aternos.me",
+    "port": "56074",
+    "name": "kartik",
+    "password": "",
     "auto-night-skip": "false",
     "prefix": "",
-    "login-enabled": "true",
+    "login-enabled": "false",
     "register-cmd": "/login kartikopp kartikopp",
     "login-cmd": "/login kartikopp",
-    "loginmsg": "",
-    "auto-reconnect": "true"
+    "loginmsg": "done",
+    "auto-reconnect": "true",
+    "web": "true"
+    
 }
