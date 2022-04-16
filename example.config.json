@@ -1,9 +1,15 @@
 {
- "ip": "play.teamic.me",
- "port": "",
- "name": "eeeeeeeee",
- "auto-night-skip": "false",
- "loginmsg": "/login eeeeeeeeeee",
- "prefix": "!",
- "version": "1.8.9"
+    "ip": "katyty.aternos.me",
+    "port": "56074",
+    "name": "@gmail.com",
+    "password": "",
+    "auto-night-skip": "false",
+    "prefix": "",
+    "login-enabled": "true",
+    "register-cmd": "/login kartikopp kartikopp",
+    "login-cmd": "/login kartikopp",
+    "loginmsg": "done",
+    "auto-reconnect": "true",
+    "web": "false"
+    
 }
