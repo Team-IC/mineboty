@@ -46,3 +46,7 @@ Updated some config.json
 # pls help us by staring or forking this repo 
 
 # hope you will like our mineboty and feel free to ask any help for help join = https://discord.gg/9a5hV3XJFT
+
+# © IC Development 2022 
+
+Developers : Just A Kartik#2735 , AsishOp
