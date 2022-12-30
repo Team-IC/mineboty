@@ -16,19 +16,24 @@ it will help you to make best in pvp will also guard the place
 
 - best and easy way to use mineboty is using Replit, Glitch & heroku 
 - toturial videos [for replit click here](https://www.youtube.com/watch?v=WZwroM4NdBU&t=0s)   |   [for GLITCH click here](https://www.youtube.com/watch?v=6sPwCrHFYCY) | [for heroku click here](https://www.youtube.com/watch?v=YMVFHtkmSzg)
-- for more support [join discord here](https://discord.gg/8bM62csKYd)
-- Team IC Discord - [Join Now](https://discord.gg/teamic)
-- Team IC Website - [Website](https://teamic.ml)
+- for more support [join discord here](https://team-ic.dev/dev) or [Email](support@team-ic.dev)
+- Team IC Discord - [Join Now](https://team-ic.dev/dev)
+- Team IC Website - [Website](https://team-ic.dev)
 
 
-# update status v3.4.22
+# update status v3.1.23
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 ## What's New
-Added 1.18 to 1.18.2 support.
-Added Website with enable disable function
-Removed some Bug's
-Updated some config.json
+- Added 1.19 support.
+- Fixed some Bug's
+- New files
+- Lite weight
+- auto restart
+- Removed many commands
+- Removed username
+- mineboty can't work in whitelist system server
+- Supports many new hosting, like :- railway,heroku
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 
