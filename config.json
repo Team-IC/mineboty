@@ -1,12 +1,12 @@
 {
-    "ip": "katyty.aternos.me",
-    "port": "",
+    "ip": "UNLIPLAY.aternos.me",
+    "port": "50815",
     "password": "",
-    "prefix": "",
+    "prefix": "!",
     "login-enabled": "false",
     "register-cmd": "/login kartikopp kartikopp",
     "login-cmd": "/login kartikopp",
-    "loginmsg": "done",
+    "loginmsg": "LOL",
     "web": "true"
     
 }
