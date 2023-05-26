@@ -9,8 +9,7 @@ COPY package*.json ./
 
 # Install npm dependencies
 RUN npm install
-
-RUN npm i mineboty
+RUN npm build
 
 # Copy the rest of the application files to the working directory
 COPY . .
