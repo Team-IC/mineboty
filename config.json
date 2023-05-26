@@ -3,7 +3,7 @@
     "port": "50815",
     "password": "",
     "name": "Player",
-    "prefix": "!",
+    "prefix": "",
     "login-enabled": "false",
     "register-cmd": "/login kartikopp kartikopp",
     "login-cmd": "/login kartikopp",
