@@ -1,6 +1,6 @@
 {
   "name": "mineboty",
-  "version": "2.0.2",
+  "version": "3.4.23--beta",
   "description": "minecraft practice pvp",
   "main": "index.js",
     "engines": {
@@ -13,6 +13,6 @@
     },
  
 "dependencies": {
-    "mineboty": "^2.0.2"
+    "mineboty": "^3.4.23--beta"
     }
 }
