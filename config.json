@@ -2,6 +2,7 @@
     "ip": "UNLIPLAY.aternos.me",
     "port": "50815",
     "password": "",
+    "name": "Player",
     "prefix": "!",
     "login-enabled": "false",
     "register-cmd": "/login kartikopp kartikopp",
