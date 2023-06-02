@@ -52,6 +52,6 @@ it will help you to make best in pvp will also guard the place
 
 # hope you will like our mineboty and feel free to ask any help for help join = https://team-ic.dev/dc
 
-# © IC Development 2022 
+# © IC Development 2021-2023
 
 Developers : Just A Kartik#2735 , AsishOp
