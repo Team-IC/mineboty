@@ -1,12 +1,8 @@
 {
-    "ip": "katyty.aternos.me",
-    "port": "",
-    "password": "",
-    "prefix": "",
-    "login-enabled": "false",
-    "register-cmd": "/login kartikopp kartikopp",
-    "login-cmd": "/login kartikopp",
-    "loginmsg": "done",
-    "web": "true"
-    
+ "username": "mineboty",
+ "ip": "in-1.rudracloud.com",
+ "port": "1510",
+ "password": "",
+ "loginmsg": "kartik",
+ "_comment": "Loginmsg is used to make login the bot"
 }
