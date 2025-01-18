@@ -1,8 +1,3 @@
 {
- "username": "mineboty",
- "ip": "in-1.rudracloud.com",
- "port": "1510",
- "password": "",
- "loginmsg": "kartik",
- "_comment": "Loginmsg is used to make login the bot"
+ "token": "your_token"
 }
